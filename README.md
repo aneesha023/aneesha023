@@ -12,7 +12,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Final-year BTech student passionate about solving real-world problems using tech  
-- 🛡️ Skilled in **Cloud Computing, Web Development, and Cybersecurity**
+- 🛡️ Skilled in **Cloud Computing, Web Development, Machine Learning and Cybersecurity**
 - 💡 Developed a **Fraud Call Detection App** with real-time voice analysis
 - 💻 Currently building a **modern portfolio website** using the **MERN stack**
 - 📚 Open to internships, collaborations, and learning opportunities
@@ -46,10 +46,10 @@
 
 ### 📌 Featured Projects
 
-🔒 [**Fraud Call Detection App**](https://github.com/aneesha023/fraud-call-detection)  
+🔒 [**Fraud Call Detection App**](https://github.com/aneesha023/FraudCallDetection)  
 Voice-based fraud classification system using Python, NLP, and a backend API
 
-🛒 [**E-Commerce MERN Stack Site**](https://github.com/aneesha023/ecommerce-mern)  
+🛒 [**E-Commerce MERN Stack Site**](https://github.com/aneesha023/E-commerce)  
 Responsive full-stack site with user auth, product filtering, and cart features
 
 🌐 [**Portfolio Website**](https://aneeshavarma.my.canva.site/)  
@@ -73,7 +73,7 @@ Responsive full-stack site with user auth, product filtering, and cart features
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aneesha-varma/)  
-📧 Email: aneeshavarma23@gmail.com  
+📧 Email: aneeshavarma07@gmail.com  
 🌐 Portfolio: Coming soon!
 
 ---
